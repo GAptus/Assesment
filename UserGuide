@@ -1,0 +1,31 @@
+Welcome to the OOP Shopping Cart.
+
+To Start off please press the "Enter Store" Button on the first Frame.
+This will take you into the index frame, from this frame you will be able to access all the actions that the user can perform on the shopping cart.
+ 
+To view the products that are on offer in the store select an option to view from the drop down menu and then press the "Display All" Button.
+This will take you a display frame displaying all the information about the product you selected to view. 
+To return to the index frame simply click on the return to index button.
+
+
+To buy any items press the "click here to buy" button. This will take you into the buy frame in which you can select any products you want to buy and the quantity in which you wish to buy.
+
+To buy an item simply select the product type in the first drop down and then find the product your wish to buy in the second, finally choose the quantity you wish to buy. 
+Once you have choosen the above options simply press the "Add to Basket". The selected item will then be added to your basket in the specified quantity.
+
+
+To view your basket contents or to remove any items from your basket simply press the "View Basket" button.
+
+This will take you into another frame showing you the contents in your basket and the total price of all your items. From here you will have several other options.
+
+You may choose to checkout by pressing the "Checkout" button, this will print the contents to a txt file called receipt.
+
+Alternatively you may choose to remove one or all the items from your basket. To do so simply press the "Remove from basket" button. 
+This takes you to another frame giving you a drop down containing all the items in your basket, a button to remove to the selected item from the drop down, a button which allows for you to
+remove all the items from your basket and finally a button allowing you to return to your index frame.
+
+To remove a single item select it from the list and then press the "Remove" button, this will remove that selected item from your basket.
+
+To remove everything from your basket you need to press the "Remove all" button, this will remove all the items in your basket.
+
+
